@@ -21,8 +21,8 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=ArhtasTheDev&show_icons=true&theme=gradient) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhtasTheDev)](https://github.com/ArhtasTheDev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhtasTheDev&&langs_count=8)](https://github.com/ArhtasTheDev/github-readme-stats)
+<img src="https://swapps.com/wp-content/uploads/2018/07/trying-out-flutter-1024x576.jpg" width="auto">
+
 
 
