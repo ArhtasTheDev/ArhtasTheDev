@@ -19,3 +19,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=link)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=mbkurtkz@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mücahit-burak-kurt-3b890a17b)
 
 
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=ArhtasTheDev&show_icons=true&theme=gradient) 
+
